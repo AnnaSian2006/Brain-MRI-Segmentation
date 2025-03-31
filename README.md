@@ -12,16 +12,24 @@ The model incorporates advanced image processing techniques, including skull rem
 
 Features:
 
-Deep Learning-Based Segmentation: Uses U-Net for accurate classification of tumor-prone areas.
-Color-Coded Risk Mapping: Highlights tumor severity for better visualization.
-Skull Removal Preprocessing: Enhances MRI scan clarity by eliminating non-relevant structures.
-Automated Heatmap Generation: Provides intuitive visual insights for medical professionals.
-Scalability for Rural Healthcare: Can be integrated with telemedicine solutions for remote diagnoses.
+-Deep Learning-Based Segmentation: Uses U-Net for accurate classification of tumor-prone areas.
+
+-Color-Coded Risk Mapping: Highlights tumor severity for better visualization.
+
+-Skull Removal Preprocessing: Enhances MRI scan clarity by eliminating non-relevant structures.
+
+-Automated Heatmap Generation: Provides intuitive visual insights for medical professionals.
+
+-Scalability for Rural Healthcare: Can be integrated with telemedicine solutions for remote diagnoses.
 
 Technology Stack:
 
 Programming Language: Python
-Libraries & Frameworks: TensorFlow, Keras, OpenCV, NumPy, Matplotlib, Seaborn
-Transformers,attention mechanism, transfer model
-Data Processing: Image normalization, augmentation, skull stripping
-Deployment Options: Web-based API, Cloud Integration
+
+-Libraries & Frameworks: TensorFlow, Keras, OpenCV, NumPy, Matplotlib, Seaborn
+
+-Transformers,attention mechanism, transfer model
+
+-Data Processing: Image normalization, augmentation, skull stripping
+
+-Deployment Options: Web-based API, Cloud Integration
