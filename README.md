@@ -1,7 +1,6 @@
 ## Brain MRI Tumor Segmentation Model
 
 # Overview
----
 
 This AI-powered Brain MRI Tumor Segmentation Model uses deep learning techniques, specifically a U-Net architecture, to classify tumor-prone regions in MRI scans. The model color-codes different risk levels:
 
